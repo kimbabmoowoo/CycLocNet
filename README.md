@@ -4,4 +4,4 @@ Official repository for **CycLocNet: Density-Guided Repetition Cycle Localizatio
 
 ## Release Plan
 
-Code and models will be made publicly available upon acceptance of the manuscript.
+We are currently preparing the code and pretrained models for public release and will make them available soon.
