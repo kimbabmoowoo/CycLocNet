@@ -1,6 +1,6 @@
 # CycLocNet
 
-Official repository for **CycLocNet: Density-Guided Repetition Cycle Localization**.
+Official repository for **CycLocNet (Cycle Localization Network): Density-Guided Repetition Cycle Localization**.
 
 ## Release Plan
 
